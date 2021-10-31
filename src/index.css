@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
 body {
     margin: 0;
 }
@@ -20,10 +22,11 @@ body {
 }
 
 .EditorTitle {
+    font-family: 'Poppins', sans-serif;
     display: flex;
-    color: white;
+    color: rgb(85, 255, 150);
     background-color: black;
-    padding: 5px;
+    padding: 8px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
 }
